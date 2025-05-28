@@ -30,9 +30,10 @@ This project analyzes simulated e-commerce transaction data to uncover key patte
 
 ## 🔗 Resources
 
-- 📄 [Final Report (PDF)](./CustomerBehaviorAnalysis.pdf)
-- 📊 [Interactive Dashboard on Tableau](https://public.tableau.com/your-dashboard-link)
-- 📋 [Google Sheets Source File](https://docs.google.com/spreadsheets/d/your-google-sheet-id)
+- 📄 [Final Report (PDF)](./Customer_Behavior_Analysis_SamuelSuarez.pdf)
+- 📊 [Interactive Dashboard on Tableau](https://public.tableau.com/app/profile/samuel.suarez.abreu/viz/E-commerceSalesAnalysisJanOct2024/RevenuebyMonth)
+- 📋 [Google Sheets Source File](https://docs.google.com/spreadsheets/d/1CSIvQcqYNJGPaZyFzIPIsOA38jW8GdVsAjLAUF-L-8I)
+
 
 ---
 
