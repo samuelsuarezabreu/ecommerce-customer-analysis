@@ -1,6 +1,6 @@
 # 🛒 Customer Purchase Behavior Analysis – E-commerce
 
-**Author:** Samuel Suárez  
+**Author:** Samuel Suarez  
 **Tools:** SQL (BigQuery), Google Sheets, Tableau
 
 ---
